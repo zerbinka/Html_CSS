@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="054baa9b-3940-4dac-80eb-592c2997bec7" name="Changes" comment="Homework 2 - created Task_2.html - Formulas">
-      <change afterPath="$PROJECT_DIR$/Lesson_1/Task_3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="054baa9b-3940-4dac-80eb-592c2997bec7" name="Changes" comment="Homework 3 - created Task_3.html - Psychology of color" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,7 +60,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1712054508621</updated>
-      <workItem from="1712054509567" duration="8442000" />
+      <workItem from="1712054509567" duration="10586000" />
     </task>
     <task id="LOCAL-00001" summary="Homework 1 - created Task_1.html - Terminator">
       <option name="closed" value="true" />
@@ -89,7 +86,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712062583498</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Homework 3 - created Task_3.html - Psychology of color">
+      <option name="closed" value="true" />
+      <created>1712068659269</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1712068659269</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,6 +103,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Homework 1 - created Task_1.html - Terminator" />
     <MESSAGE value="Homework 2 - created Task_2.html - Formulas" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework 2 - created Task_2.html - Formulas" />
+    <MESSAGE value="Homework 3 - created Task_3.html - Psychology of color" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework 3 - created Task_3.html - Psychology of color" />
   </component>
 </project>
