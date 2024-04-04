@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="054baa9b-3940-4dac-80eb-592c2997bec7" name="Changes" comment="Homework 2 - Tasks 2.1 - Boxes">
-      <change afterPath="$PROJECT_DIR$/Lesson_2/Task_2.2..html" afterDir="false" />
+    <list default="true" id="054baa9b-3940-4dac-80eb-592c2997bec7" name="Changes" comment="Homework 2 - Tasks 2.3 - Widgets">
+      <change afterPath="$PROJECT_DIR$/Lesson_2/Task_2.3..html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +65,7 @@
       <updated>1712054508621</updated>
       <workItem from="1712054509567" duration="10586000" />
       <workItem from="1712069498402" duration="122000" />
-      <workItem from="1712209142102" duration="7687000" />
+      <workItem from="1712209142102" duration="15004000" />
     </task>
     <task id="LOCAL-00001" summary="Homework 1 - created Task_1.html - Terminator">
       <option name="closed" value="true" />
@@ -115,7 +115,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712213513791</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Homework 2 - Tasks 2.2 - Shapes">
+      <option name="closed" value="true" />
+      <created>1712216972384</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1712216972384</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,6 +135,8 @@
     <MESSAGE value="Homework 3 - created Task_3.html - Psychology of color" />
     <MESSAGE value="Homework - Tasks 1, 2, 3" />
     <MESSAGE value="Homework 2 - Tasks 2.1 - Boxes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework 2 - Tasks 2.1 - Boxes" />
+    <MESSAGE value="Homework 2 - Tasks 2.2 - Shapes" />
+    <MESSAGE value="Homework 2 - Tasks 2.3 - Widgets" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework 2 - Tasks 2.3 - Widgets" />
   </component>
 </project>
