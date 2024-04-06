@@ -4,9 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="054baa9b-3940-4dac-80eb-592c2997bec7" name="Changes" comment="Homework 2 - Tasks 2.3 - Widgets">
-      <change afterPath="$PROJECT_DIR$/Lesson_2/Modified_2.3..html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_2/Modified_2.3_(style).css" afterDir="false" />
+    <list default="true" id="054baa9b-3940-4dac-80eb-592c2997bec7" name="Changes" comment="Homework 2 - Task 2.3 CSS file - Widgets">
+      <change afterPath="$PROJECT_DIR$/Lesson_3/Example_1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_3/Example_1_style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_3/Example_2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_3/Example_2_style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_3/Example_3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_3/Example_3_style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_3/Example_4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_3/Example_4_style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_3/Example_5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_3/Example_5_style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,7 +76,7 @@
       <updated>1712054508621</updated>
       <workItem from="1712054509567" duration="10586000" />
       <workItem from="1712069498402" duration="122000" />
-      <workItem from="1712209142102" duration="15627000" />
+      <workItem from="1712209142102" duration="27540000" />
     </task>
     <task id="LOCAL-00001" summary="Homework 1 - created Task_1.html - Terminator">
       <option name="closed" value="true" />
@@ -134,7 +142,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712226755289</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Homework 2 - Task 2.3 CSS file - Widgets">
+      <option name="closed" value="true" />
+      <created>1712227309775</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1712227309775</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -148,6 +164,7 @@
     <MESSAGE value="Homework 2 - Tasks 2.1 - Boxes" />
     <MESSAGE value="Homework 2 - Tasks 2.2 - Shapes" />
     <MESSAGE value="Homework 2 - Tasks 2.3 - Widgets" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework 2 - Tasks 2.3 - Widgets" />
+    <MESSAGE value="Homework 2 - Task 2.3 CSS file - Widgets" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework 2 - Task 2.3 CSS file - Widgets" />
   </component>
 </project>
