@@ -1,0 +1,41 @@
+body{
+    margin: 0;
+    height: 100vh;
+}
+
+#pink{
+    background-color: #d99dd7;
+    width: 100vw;
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: justify;
+}
+
+#black{
+    background-color: black;
+    color: white;
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: justify;
+}
+
+.flex{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: justify;
+}
+
+p{
+    margin: 20px 80px 20px 80px;
+    text-align: justify-all;
+    padding-bottom: 20px;
+}
