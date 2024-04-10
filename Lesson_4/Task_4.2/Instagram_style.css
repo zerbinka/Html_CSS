@@ -1,0 +1,122 @@
+*{
+    margin: 0;
+}
+
+body{
+    height: 105vh;
+    width:100%;
+}
+
+#block_1{
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border: 1px solid darkgrey;
+    margin: 50px 400px 0 400px;
+}
+
+.flex{
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#block_1 img{
+    width: 400px;
+    height: 150px;
+    margin-top: 30px;
+}
+
+button{
+    margin-top: 20px;
+    margin-bottom: 30px;
+    background-color: #369ff3;
+    color: white;
+    border: none;
+    border-radius: 15px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 20px 220px 20px 220px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#block_1 label{
+    margin-bottom: 15px;
+}
+
+#block_1 input[type="text"], #block_1 input[type="password"] {
+    width: 470px;
+    height: 50px;
+    font-size: 20px;
+    padding-left: 10px;
+}
+
+h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 30px 0 30px 0;
+    color: #6c6c6c;
+}
+
+span{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 0 20px 0;
+    font-size: 25px;
+    color: #1717a1;
+}
+
+p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 30px 0 30px 0;
+    font-size: 20px;
+    color: #2929b4;
+}
+
+#block_1 #links span a {
+    text-decoration: none;
+    color: #2929b4;
+}
+
+#block_1 #links p a {
+    text-decoration: none;
+    color: #2929b4;
+}
+
+#block_2 {
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border: 1px solid darkgrey;
+    margin: 20px 400px 100px 400px;
+}
+
+#block_2 span{
+    color: black;
+}
+
+#block_2 .register-link {
+    color: #06a1f6;
+    text-decoration: none;
+    cursor: pointer;
+    margin-left: 10px;
+}
+
+#block_1 img[src="FB.png"] {
+    width: 30px;
+    height: 30px;
+    margin: 10px 10px 10px 10px;
+}

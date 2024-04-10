@@ -4,17 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="054baa9b-3940-4dac-80eb-592c2997bec7" name="Changes" comment="Homework 3 (part-3 Webpage - Pink and Black)">
-      <change afterPath="$PROJECT_DIR$/Lesson_4/Task_4.1/Mountains_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_4/Task_4.1/Mountains_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_4/Task_4.1/Mountains_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_4/Task_4.1/Rectangle.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_4/Task_4.1/Rectangle2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_4/Task_4.1/Task_4.1.(style).css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_4/Task_4.1/Task_4.1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_4/Task_4.1/image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_4/Task_4.1/small_image.png" afterDir="false" />
+    <list default="true" id="054baa9b-3940-4dac-80eb-592c2997bec7" name="Changes" comment="Homework 4 (part - 1 Website)">
+      <change afterPath="$PROJECT_DIR$/Lesson_4/Task_4.2/FB.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_4/Task_4.2/Instagram_style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_4/Task_4.2/Task_4.2_Instagram.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_4/Task_4.2/img.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson_4/Task_4.1/Task_4.1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_4/Task_4.1/Task_4.1.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +49,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Anastasiya_Zerbino/IdeaProjects/Html_CSS/Lesson_4/Task_4.1",
+    "last_opened_file_path": "C:/Users/Anastasiya_Zerbino/IdeaProjects/Html_CSS/Lesson_4/Task_4.2",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -66,6 +62,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Anastasiya_Zerbino\IdeaProjects\Html_CSS\Lesson_4\Task_4.2" />
+      <recent name="C:\Users\Anastasiya_Zerbino\IdeaProjects\Html_CSS\Lesson_4" />
       <recent name="C:\Users\Anastasiya_Zerbino\IdeaProjects\Html_CSS\Lesson_4\Task_4.1" />
       <recent name="C:\Users\Anastasiya_Zerbino\IdeaProjects\Html_CSS\Lesson_4\Task_4.1\Resources_used" />
       <recent name="C:\Users\Anastasiya_Zerbino\IdeaProjects\Html_CSS\Lesson_1" />
@@ -83,7 +81,7 @@
       <workItem from="1712069498402" duration="122000" />
       <workItem from="1712209142102" duration="39262000" />
       <workItem from="1712595914674" duration="130000" />
-      <workItem from="1712596070017" duration="30445000" />
+      <workItem from="1712596070017" duration="43045000" />
     </task>
     <task id="LOCAL-00001" summary="Homework 1 - created Task_1.html - Terminator">
       <option name="closed" value="true" />
@@ -181,7 +179,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712493971406</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Homework 4 (part - 1 Website)">
+      <option name="closed" value="true" />
+      <created>1712734380729</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1712734380729</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -199,6 +205,7 @@
     <MESSAGE value="Homework 3 - Макети 1-5 (Figma)" />
     <MESSAGE value="Homework 3 (part-2 scrolling website - Colors)" />
     <MESSAGE value="Homework 3 (part-3 Webpage - Pink and Black)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework 3 (part-3 Webpage - Pink and Black)" />
+    <MESSAGE value="Homework 4 (part - 1 Website)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework 4 (part - 1 Website)" />
   </component>
 </project>
