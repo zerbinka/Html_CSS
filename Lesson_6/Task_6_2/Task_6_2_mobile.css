@@ -1,25 +1,26 @@
-@media screen and (max-width: 600px){
-}
+@media screen and (max-width: 600px) {
 
-.grid{
-    grid-template-rows: auto;
-    grid-template-columns: 100%;
-}
 
-.item:nth-child(1){
-    grid-row: auto;
-    grid-column: auto;
-    height: 20vh;
-}
+    .grid {
+        grid-template-rows: auto;
+        grid-template-columns: 100%;
+    }
 
-.item:nth-child(2){
-    grid-row: auto;
-    grid-column: auto;
-    height: 60vh;
-}
+    .item:nth-child(1) {
+        grid-row: auto;
+        grid-column: auto;
+        height: 20vh;
+    }
 
-.item:nth-child(3){
-    grid-row: auto;
-    grid-column: auto;
-    height: 20vh;
+    .item:nth-child(2) {
+        grid-row: auto;
+        grid-column: auto;
+        height: 60vh;
+    }
+
+    .item:nth-child(3) {
+        grid-row: auto;
+        grid-column: auto;
+        height: 20vh;
+    }
 }
